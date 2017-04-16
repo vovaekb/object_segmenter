@@ -46,7 +46,6 @@ rosrun object_segmenter segment_object <point_cloud>.pcd --indices <indices_file
 
 Result of work:
 
-![object_segmenter_result.png](https://bitbucket.org/repo/KrML5Lj/images/4172871832-object_segmenter_result.png)
 ![ScreenShot](https://raw.github.com/vovaekb/object_segmenter/master/images/object_segmenter_result.png)
 
 Test example of point cloud is located in directory **test**.
